@@ -1,2 +1,2 @@
 # DrumKit
-Play Basic Drum Notes 🥁
+Play basic Drum notes 🥁
